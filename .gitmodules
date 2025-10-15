@@ -5,6 +5,9 @@
 [submodule "manydata"]
 	path = manydata
 	url = https://github.com/globalgov/manydata
+[submodule "manystates"]
+	path = manystates
+	url = https://github.com/globalgov/manystates
 [submodule "messydates"]
 	path = messydates
 	url = https://github.com/globalgov/messydates
